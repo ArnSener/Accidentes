@@ -1,4 +1,0 @@
-pandas
-numpy
-dtale
-jupyter-server-proxy

@@ -1,0 +1,8 @@
+dependencies:
+  - dash
+  - dtale
+  - nbserverproxy
+  - pip
+  - pip:
+    - jupyter-server-proxy
+
